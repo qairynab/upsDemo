@@ -1,0 +1,10 @@
+browser: chrome
+betaVersion: true
+testEnv: local
+headless: false
+pageLoadTimeout: 30
+implicitTimeout: 2
+explicitTimeout: 5
+supportedOSList:
+  - mac
+  - win
